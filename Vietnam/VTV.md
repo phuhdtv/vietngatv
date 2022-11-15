@@ -1,4 +1,4 @@
-<h1>Vietnam (FPT Play, VITV.vn)</h1>
+<h1>Vietnam (FPT Play/VITV.vn)</h1>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:----:|
@@ -20,9 +20,9 @@
 | 16  | VTC7 HD       | [>](https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/7LMs72R.png"/> |
 | 17  | VTC8          | [>](https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/VpDVPAD.png"/> |
 | 18  | VTC9 HD       | [>](https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/9i610ce.png"/> |
-| 19  | VTC10         | [>](https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/MJrqbZc.png"/> |
+| 19  | VTC10 HD      | [>](https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/MJrqbZc.png"/> |
 | 20  | VTC11         | [>](https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/AyBxScM.png"/> |
-| 21  | VTC12         | [>](https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/SgSZhS7.png"/> |
+| 21  | VTC12         | [>](https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/SX9k3hO.png"/> |
 | 22  | VTC13 HD      | [>](https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/xgR85i1.png"/> |
 | 23  | VTC14 HD      | [>](https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/GjrYjqe.png"/> |
 | 24  | VTC16 HD      | [>](https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/jHJ0Qnp.png"/> |
