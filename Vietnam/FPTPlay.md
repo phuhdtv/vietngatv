@@ -14,7 +14,7 @@
 | 10  | VTC1 HD       | [>](https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/g6rH1cs.png"/> |
 | 11  | VTC2          | [>](https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/8Y2vdek.png"/> |
 | 12  | VTC3 HD       | [>](https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/iJ0haYq.png"/> |
-| 13  | VTC4 HD       | [>](https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/NM5eNec.png"/> |
+| 13  | VTC4 HD       | [>](https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/S4DYcF4.png"/> |
 | 14  | VTC5 HD       | [>](https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/xAQiJ4y.png"/> |
 | 15  | VTC6          | [>](https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/DXghhwC.png"/> |
 | 16  | VTC7 HD       | [>](https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/EeGAtuK.png"/> |
