@@ -26,7 +26,7 @@
 | 22  | VTC13 HD      | [>](https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/xc2G48h.png"/> |
 | 23  | VTC14 HD      | [>](https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/GjrYjqe.png"/> |
 | 24  | VTC16 HD      | [>](https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/jHJ0Qnp.png"/> |
-| 25  | VOV TV        | [>](https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/yyftSZg.png"/> |
+| 25  | VOV TV        | [>](https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/QjJ0Ic4.png"/> |
 | 26  | Quốc Hội HD   | [>](https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/pyQJnZz.png"/> |
 | 27  | QPVN          | [>](https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/fBvkVen.png"/> |
 | 28  | VNews - TTXVN | [>](http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/AAWIPHz.png"/> |
