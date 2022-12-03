@@ -31,7 +31,7 @@
 | 27  | QPVN          | [>](https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/fBvkVen.png"/> |
 | 28  | VNews - TTXVN | [>](http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/AAWIPHz.png"/> |
 | 29  | Nhân Dân TV   | [>](https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/7zgsFIK.png"/> |
-| 30  | ANTV HD       | [>](https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/8goldzC.png"/> |
+| 30  | AN NINH TV HD | [>](https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/nOb4rPT.png"/> |
 | 31  | HTV7 HD       | [>](https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/fqS0j08.png"/> |
 | 32  | HTV9 HD       | [>](https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/lL7BHWP.png"/> |
 | 33  | VITV HD       | [>](http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8) | <img height="20" src="https://i.imgur.com/DZ0Gv8i.png"/> |
