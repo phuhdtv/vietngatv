@@ -17,13 +17,13 @@
 | 13  | VTC4 HD       | [>](https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/NM5eNec.png"/> |
 | 14  | VTC5 HD       | [>](https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/xAQiJ4y.png"/> |
 | 15  | VTC6          | [>](https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/DXghhwC.png"/> |
-| 16  | VTC7 HD       | [>](https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/7LMs72R.png"/> |
+| 16  | VTC7 HD       | [>](https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/EeGAtuK.png"/> |
 | 17  | VTC8          | [>](https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/VpDVPAD.png"/> |
 | 18  | VTC9 HD       | [>](https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/9i610ce.png"/> |
 | 19  | VTC10 HD      | [>](https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/MJrqbZc.png"/> |
 | 20  | VTC11         | [>](https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/AyBxScM.png"/> |
 | 21  | VTC12         | [>](https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/SX9k3hO.png"/> |
-| 22  | VTC13 HD      | [>](https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/xgR85i1.png"/> |
+| 22  | VTC13 HD      | [>](https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/xc2G48h.png"/> |
 | 23  | VTC14 HD      | [>](https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8) | <img height="20" src="https://i.imgur.com/GjrYjqe.png"/> |
 | 24  | VTC16 HD      | [>](https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/jHJ0Qnp.png"/> |
 | 25  | VOV TV        | [>](https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8) | <img height="20" src="https://i.imgur.com/yyftSZg.png"/> |
