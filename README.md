@@ -1,3 +1,3 @@
 # vietngatv
 
-freesat.cn
+https://wwww.freesat.cn
