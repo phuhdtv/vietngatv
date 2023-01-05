@@ -1,4 +1,4 @@
-<h1>Vietnam (FPT Play/VITV.vn)</h1>
+<h1>Vietnam</h1>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:----:|
