@@ -119,7 +119,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV - HTVC" tvg-logo="https://i.imgur.com/WMZDWZb.png",HTV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+https://tiemnhazunn.click/vieon/htv1.php
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV - HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8",HTV2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
