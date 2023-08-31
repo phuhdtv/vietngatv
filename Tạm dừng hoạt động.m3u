@@ -1,6 +1,0 @@
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Music" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV/Baby Time
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Bridge_TV_SD.ism/playlist.mpd
