@@ -2,10 +2,10 @@
 
 Credits to:
 
-img.smotreshka.tv (Russian-CIS And foreign Channel Logos)
+img.smotreshka.tv (Russian-CIS, Most Local And PayTV Channel Logos)
 
-rutube.ru (Some Russian Channel Logos)
+rutube.ru (Some Russian National And Local Channel Logos)
 
-static.fptplay.net (VTV, VTC, HTV, HTVC, National, Loval And PayTV Channel Logos)
+static.fptplay.net (VTV, VTC, HTV, HTVC, National, Local And PayTV Channel Logos)
 
 assets-vtvcab.gviet.vn (VTVCab And Some PayTV Channel Logos)
