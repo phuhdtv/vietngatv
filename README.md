@@ -11,3 +11,5 @@ rutube.ru (Some Russian National And Local Channel Logos)
 static.fptplay.net (VTV, VTC, HTV, HTVC, National, Local, Foreign And PayTV Channel Logos)
 
 assets-vtvcab.gviet.vn (VTVCab And Some PayTV Channel Logos)
+
+radiopedia (Logo of Radio Sputnik)
