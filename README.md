@@ -13,3 +13,7 @@ static.fptplay.net (VTV, VTC, HTV, HTVC, National, Local, Foreign And PayTV Chan
 assets-vtvcab.gviet.vn (VTVCab And Some PayTV Channel Logos)
 
 radiopedia (Logo of Radio Sputnik)
+
+cdnjkt2.transvision.co.id:1001/ (Some Logos)
+
+dev.firstmedia.com (Some Logos)
