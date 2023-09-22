@@ -17,3 +17,5 @@ radiopedia (Logo of Radio Sputnik)
 cdnjkt2.transvision.co.id:1001/ (Most Logos)
 
 dev.firstmedia.com (Most Logos)
+
+onair.mir24.tv (Two Logos)
