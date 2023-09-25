@@ -21,3 +21,5 @@ dev.firstmedia.com (Most Logos)
 onair.mir24.tv (Two Logos)
 
 Youtube.com (Some Logos)
+
+displaytivi.github.io (Some Logos)
