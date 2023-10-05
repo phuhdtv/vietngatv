@@ -25,3 +25,5 @@ onair.mir24.tv (Two Logos)
 Youtube.com (Some Logos)
 
 displaytivi.github.io (Some Logos)
+
+cdn.hqth.me/logo/thumbs/ (One Logo)
