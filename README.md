@@ -14,6 +14,8 @@ assets-vtvcab.gviet.vn (VTVCab And Some PayTV Channel Logos)
 
 radiopedia (Logo of Radio Sputnik)
 
+logos.fandom.com (VTV Logos)
+
 cdnjkt2.transvision.co.id:1001/ (Most Logos)
 
 dev.firstmedia.com (Most Logos)
